@@ -4,21 +4,37 @@ body{
 }
 .headerarea{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-  text-align: center;
-  font-weight: bold;
   color: white;
 }
-h1{
-  font-size: 72px;
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
+
+p {
+  font-size: 14px;
+}
+
 .headernavigation{
   font-size: 18px;
   color: white;
 }
 
-.items{
-  text-align: center;
+.bigtext{
+  font-size: 32px;
+  font-weight: bold;
 }
+
+.mediumtext{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#designedintext{
+  font-weight: bold;
+}
+
 .footer{
   text-align: left;
   background-color: dimgray;
